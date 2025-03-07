@@ -1,7 +1,8 @@
+Storage full … You've used all of your 20 GB individual storage. To upload more files, free up space or talk to your administrator.
 close all; clear all; clc;
 
 %% Free conv, 10W
-filename = 'Experiment 1, forced laminar flow, 25%, 20W.txt';
+filename = 'Free conv, 10W';
 outputMatFile = 'Experiment 1, forced laminar flow, 25%, 20W.mat';
 
 % Define import options
